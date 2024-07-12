@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163215012818",
+    "project_id": "saup-communinty",
+    "storage_bucket": "saup-communinty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163215012818:android:5f5f0d6a457c3515ba8e0b",
+        "android_client_info": {
+          "package_name": "com.elongocrea.saup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOihcKdOZv1PCFXPebHe2Yh_SOXDHjIqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163215012818:android:27a178d91003fcd7ba8e0b",
+        "android_client_info": {
+          "package_name": "com.elongocrea.saupcommuninty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOihcKdOZv1PCFXPebHe2Yh_SOXDHjIqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
