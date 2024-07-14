@@ -142,5 +142,6 @@ dependencies {
     implementation(libs.accompanist.placeholder.material)
     implementation(libs.animated.navigation.bar)
     implementation(libs.material3)
+    implementation(libs.accompanist.pager)
 
 }
